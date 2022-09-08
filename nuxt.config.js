@@ -21,7 +21,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "Responsive Bootstrap 5 Admin Dashboard"
+        content: "Cocoa Abrabopa Association Dashboard"
       }
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
