@@ -109,15 +109,201 @@ export const menuItems = [
   },
   {
     id: 6,
-    label: "Tasks Tracking",
+    label: "Operations & Extension Services",
     icon: "uil-list-ul",
-    link: "/"
+    link: "/",
+    subItems: [
+      {
+        id: 61,
+        label: "Soil Test",
+        link: "/"
+      },
+      {
+        id: 62,
+        label: "Training ",
+        link: "/"
+      }, {
+        id: 63,
+        label: "Internal inspections",
+        link: "/"
+      },
+    ]
   },
   {
     id: 7,
-    label: "Soil Test",
-    icon: "uil-flask",
-    link: "/"
+    label: "Purchase & Sales",
+    icon: "uil-list-ul",
+    link: "/",
+    subItems: [
+      {
+        id: 71,
+        label: "Farmer wise purchase",
+        link: "/"
+      },
+      {
+        id: 71,
+        label: "Farmer wise purchase",
+        link: "/"
+      },
+      {
+        id: 72,
+        label: "Port transactions",
+        link: "/"
+      },
+    ]
   },
+  {
+    id: 8,
+    label: "Monitoring & Evaluation",
+    icon: "uil-list-ul",
+    link: "/",
+    subItems: [
+      {
+        id: 81,
+        label: "Farmer wise premium listing",
+        link: "/"
+      },
+      {
+        id: 81,
+        label: "Surveys ",
+        link: "/"
+      },
+      {
+        id: 82,
+        label: "Training module",
+        link: "/"
+      },
+    ]
+  },
+  {
+    id: 9,
+    label: "Child labour monitoring",
+    icon: "uil-list-ul",
+    link: "/",
+    subItems: [
+      {
+        id: 91,
+        label: "Case management",
+        link: "/"
+      },
+      {
+        id: 91,
+        label: "Trace to community ",
+        link: "/"
+      },
+      {
+        id: 92,
+        label: "Training module",
+        link: "/"
+      },
+    ]
+  },
+  {
+    id: 10,
+    label: "Accounting",
+    icon: "uil-list-ul",
+    link: "/",
+    subItems: [
+      {
+        id: 101,
+        label: "Cash & bank transactions",
+        link: "/"
+      },
+      {
+        id: 101,
+        label: "Post-dated transactions",
+        link: "/"
+      },
+      {
+        id: 102,
+        label: "Purchase bills",
+        link: "/"
+      },
+      {
+        id: 103,
+        label: "Sales bills",
+        link: "/"
+      },
+      {
+        id: 104,
+        label: "Bank reconciliation",
+        link: "/"
+      },
+      {
+        id: 105,
+        label: "Ledger reports",
+        link: "/"
+      },
+      {
+        id: 106,
+        label: "Trial balance",
+        link: "/"
+      },
+      {
+        id: 107,
+        label: "Cash flow statement",
+        link: "/"
+      },
+      {
+        id: 108,
+        label: "P/L statement",
+        link: "/"
+      },
+    ]
+  },
+  {
+    id: 11,
+    label: "Accounting",
+    icon: "uil-list-ul",
+    link: "/",
+    subItems: [
+      {
+        id: 101,
+        label: "Cash & bank transactions",
+        link: "/"
+      },
+      {
+        id: 101,
+        label: "Post-dated transactions",
+        link: "/"
+      },
+      {
+        id: 102,
+        label: "Purchase bills",
+        link: "/"
+      },
+      {
+        id: 103,
+        label: "Sales bills",
+        link: "/"
+      },
+      {
+        id: 104,
+        label: "Bank reconciliation",
+        link: "/"
+      },
+      {
+        id: 105,
+        label: "Ledger reports",
+        link: "/"
+      },
+      {
+        id: 106,
+        label: "Trial balance",
+        link: "/"
+      },
+      {
+        id: 107,
+        label: "Cash flow statement",
+        link: "/"
+      },
+      {
+        id: 108,
+        label: "P/L statement",
+        link: "/"
+      },
+    ]
+  },
+
 ];
 
