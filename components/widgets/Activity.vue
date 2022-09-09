@@ -32,11 +32,9 @@ export default {};
                             <small class="d-inline-block ml-1">12:20 pm</small>
                         </p>
                         <p class="mt-0 mb-0">
-                            Andrei Coman magna sed porta finibus, risus
-                            posted a new article:
+                          Land ploughing -
                             <span class="text-primary">
-                                Forget UX
-                                Rowland
+                                 then add duration, and progress percentage
                             </span>
                         </p>
                     </div>
@@ -47,8 +45,8 @@ export default {};
                         <small class="d-inline-block ml-1">12:36 pm</small>
                     </p>
                     <p class="mt-0 mb-0">
-                        Andrei Coman posted a new article:
-                        <span class="text-primary">Designer Alex</span>
+                      Spraying - do same for this as well
+                        <span class="text-primary">Alex</span>
                     </p>
                 </li>
                 <li class="feed-item">
@@ -57,9 +55,8 @@ export default {};
                         <small class="d-inline-block ml-1">07:56 am</small>
                     </p>
                     <p class="mt-0 mb-0">
-                        Zack Wetass, sed porta finibus, risus Chris Wallace
-                        Commented
-                        <span class="text-primary">Developer Moreno</span>
+                      Harvesting - same for this
+                        <span class="text-primary">Ken </span>
                     </p>
                 </li>
                 <li class="feed-item">
@@ -68,8 +65,8 @@ export default {};
                         <small class="d-inline-block ml-1">08:42 pm</small>
                     </p>
                     <p class="mt-0 mb-0">
-                        Zack Wetass, Chris combined Commented
-                        <span class="text-primary">UX Murphy</span>
+                      Supply of fertilizer
+                      <span class="text-primary">Supply Office</span>
                     </p>
                 </li>
 
@@ -79,19 +76,8 @@ export default {};
                         <small class="d-inline-block ml-1">12:22 am</small>
                     </p>
                     <p class="mt-0 mb-0">
-                        Zack Wetass, sed porta finibus, risus Chris Wallace
-                        Commented
-                        <span class="text-primary">Developer Moreno</span>
-                    </p>
-                </li>
-                <li class="feed-item pb-1">
-                    <p class="text-muted mb-1 font-size-13">
-                        20 Jun, 2020
-                        <small class="d-inline-block ml-1">09:48 pm</small>
-                    </p>
-                    <p class="mt-0 mb-0">
-                        Zack Wetass, Chris combined Commented
-                        <span class="text-primary">UX Murphy</span>
+                      Akate Awareness Program
+                        <span class="text-primary">M&E Department</span>
                     </p>
                 </li>
             </ol>
