@@ -132,7 +132,7 @@ export const menuItems = [
   {
     id: 7,
     label: "Purchase & Sales",
-    icon: "uil-list-ul",
+    icon: "uil-money-withdraw",
     link: "/",
     subItems: [
       {
@@ -155,7 +155,7 @@ export const menuItems = [
   {
     id: 8,
     label: "Monitoring & Evaluation",
-    icon: "uil-list-ul",
+    icon: "uil-arrow-growth",
     link: "/",
     subItems: [
       {
@@ -178,7 +178,7 @@ export const menuItems = [
   {
     id: 9,
     label: "Child labour monitoring",
-    icon: "uil-list-ul",
+    icon: "uil-crosshairs",
     link: "/",
     subItems: [
       {
@@ -201,7 +201,7 @@ export const menuItems = [
   {
     id: 10,
     label: "Accounting",
-    icon: "uil-list-ul",
+    icon: "uil-money-withdrawal",
     link: "/",
     subItems: [
       {
@@ -254,7 +254,7 @@ export const menuItems = [
   {
     id: 11,
     label: "Certification ",
-    icon: "uil-list-ul",
+    icon: "uil-money-bill-stack",
     link: "/",
     subItems: [
       {
