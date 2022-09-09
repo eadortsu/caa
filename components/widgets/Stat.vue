@@ -163,7 +163,7 @@ export default {
                 </div>
                 <div>
                     <h4 class="mb-1 mt-1">
-                        $
+
                         <span data-plugin="counterup">
                             <countTo :startVal="1000" :endVal="34152" :duration="2000"></countTo>
                         </span>
