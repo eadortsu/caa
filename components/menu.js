@@ -253,53 +253,48 @@ export const menuItems = [
   },
   {
     id: 11,
-    label: "Accounting",
+    label: "Certification ",
     icon: "uil-list-ul",
     link: "/",
     subItems: [
       {
-        id: 101,
-        label: "Cash & bank transactions",
+        id: 110,
+        label: "Farmer Registrations",
         link: "/"
       },
       {
-        id: 101,
-        label: "Post-dated transactions",
+        id: 111,
+        label: "Farmer Training",
         link: "/"
       },
       {
-        id: 102,
-        label: "Purchase bills",
+        id: 112,
+        label: "Internal Inspections",
         link: "/"
       },
       {
-        id: 103,
-        label: "Sales bills",
+        id: 113,
+        label: "Traceability",
         link: "/"
       },
       {
-        id: 104,
-        label: "Bank reconciliation",
+        id: 114,
+        label: "Input Distribution ",
         link: "/"
       },
       {
-        id: 105,
-        label: "Ledger reports",
+        id: 115,
+        label: "Outstanding Statements ",
         link: "/"
       },
       {
-        id: 106,
-        label: "Trial balance",
+        id: 116,
+        label: "Mapping",
         link: "/"
       },
       {
-        id: 107,
-        label: "Cash flow statement",
-        link: "/"
-      },
-      {
-        id: 108,
-        label: "P/L statement",
+        id: 117,
+        label: "Soil sampling",
         link: "/"
       },
     ]
